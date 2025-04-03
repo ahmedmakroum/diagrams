@@ -130,7 +130,7 @@
         <mxCell id="AOo0QYdCF-OLRtNqhmVB-20" value="INGESTION DES DONNEES" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="580" y="580" width="220" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="AOo0QYdCF-OLRtNqhmVB-21" value="STOCKAGE TEMPORAIRE&lt;div&gt;(kafka,hdfs)&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="AOo0QYdCF-OLRtNqhmVB-21" value="STOCKAGE TEMPORAIRE&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="630" y="770" width="220" height="105" as="geometry" />
         </mxCell>
         <mxCell id="AOo0QYdCF-OLRtNqhmVB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.392;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AOo0QYdCF-OLRtNqhmVB-20" target="AOo0QYdCF-OLRtNqhmVB-21">
